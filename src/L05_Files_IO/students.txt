@@ -1,0 +1,10 @@
+Maria,21,9.50
+Bogdan,22,7.30
+Carol,20,8.75
+David,23,6.90
+Elena,21,9.10
+Florin,24,5.50
+Gianina,22,8.20
+Hector,20,7.80
+Iasmina,23,9.90
+Jacqueline,21,6.40
