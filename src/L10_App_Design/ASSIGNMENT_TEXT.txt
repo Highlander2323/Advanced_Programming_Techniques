@@ -1,1 +1,16 @@
-Write a documentation of how would you build an application in Java, using everything you've learned from this course.
+This is the final lab in which you will use everything you've learned for one final assignment. Write a documentation of how you would build an application in the Java environment, using everything you've learned so far. You do not have to build the app itself, just outline every aspect of the software, from structure to use cases, and write a documentation of how the app would look like and how it would behave. A skeleton documentation file is provided for you to just fill up. The application can be the one you are building for the colloquium, or one random example of your choosing. The document shan't be more than 10 pages total, with a minimum of 4, including cover and contents. Diagrams are optional, but highly supported. The file you will upload will only b the written up documentation.
+
+A quick checklist for a guaranteed good grade:
+- I explained why I made decisions
+- I used concepts from the course (OOP, patterns, etc.)
+- My design is clear and realistic
+- My document is well-structured and readable
+
+
+Acesta este ultimul laborator în care veți folosi tot ce ați învățat pentru un assignment final. Scrieți o documentație despre modul în care ați construi o aplicație în mediul Java, utilizând toate cunoștințele dobândite până acum. Nu trebuie să construiți aplicația propriu-zisă, ci doar să schițați fiecare aspect al software-ului, de la structură la cazuri de utilizare, și să redactați o documentație despre cum ar arăta și cum s-ar comporta aplicația. Vi se pune la dispoziție un fișier-schelet pentru documentație, pe care trebuie doar să îl completați. Aplicația poate fi cea pe care o construiți pentru colocviu (dacă se aplică) sau un exemplu aleatoriu la alegerea voastră. Documentul nu trebuie să depășească 10 pagini în total, având un minim de 4 pagini, inclusiv coperta și cuprinsul. Fișierul pe care îl veți încărca va fi strict documentația redactată.
+
+O listă scurtă de verificare pentru asigurarea unei note bune:
+- Am explicat de ce am luat anumite decizii
+- Am folosit concepte din curs (OOP, patterns, etc.)
+- Design-ul meu e clar și verosimil
+- Documentul meu este bine structurat și lizibil.
