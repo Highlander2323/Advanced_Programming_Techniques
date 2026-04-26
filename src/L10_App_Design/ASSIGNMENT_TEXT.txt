@@ -1,0 +1,1 @@
+Write a documentation of how would you build an application in Java, using everything you've learned from this course.
